@@ -1,1 +1,7 @@
-
+print('Adını yazarmısın')
+name=input()
+print('Tamam adını kaydettim ^w^   ' + name)
+print('Benim adım tilki tanıştığımıza memnun oldum   ' + name)
+kişilik=input()
+print('Hangi oyunları seversin   ' + name)
+kişilik=input()
